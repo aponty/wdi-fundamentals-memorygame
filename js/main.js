@@ -57,21 +57,3 @@ function createBoard(){
 }
 
 createBoard();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
